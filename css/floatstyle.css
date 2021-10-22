@@ -1,0 +1,33 @@
+.container{
+    width: 100%;
+    height: 150px;
+    background-color: greenyellow;
+}
+
+.container > div {
+    height: 50px;
+    width: 50px;
+  
+    /* border:5px black solid; */
+}
+
+.red{
+    background-color: red;
+    float: left;
+}
+.green{
+    background-color: green;
+    float: left;
+}
+.yellow{
+    background-color: yellow;
+    float: right;
+}
+.navbar>div{
+    float: left;
+    margin-left: 10px;
+}
+.register{
+    float: right;
+    margin-right: 50px;
+}

@@ -1,0 +1,10 @@
+.container{
+    width: 150px;
+    height: 200px;
+    background-color: salmon;
+    overflow: auto;
+}
+.message{
+    width: 200px;
+    height: 350px;
+}
